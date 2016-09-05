@@ -1,0 +1,9 @@
+build/
+bootstrap.*
+.sencha/
+
+# Temporary files generate when compiling .scss files
+resources/sass/.sass-cache/
+
+# Compressed CSS files
+resources/css
